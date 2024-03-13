@@ -28,13 +28,14 @@ body{
     padding-bottom: 0px;
 }
 
-#sub-title{
+#sub-title {
     font-family: 'Itim';
     color: black;
     font-size: 32px;
     height: 2px;
-    font-weight: '400';
-    word-wrap: 'break-word';
+    font-weight: 400;
+    word-wrap: break-word;
     margin-left: 400px;
+    margin-top: 4px; /* Adjusted margin */
     padding-top: 0px;
 }
